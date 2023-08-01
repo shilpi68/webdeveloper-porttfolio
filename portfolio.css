@@ -156,3 +156,10 @@ margin:30px
     text-align: center;
     margin-top: 50px;
 }
+/* footer style */
+footer{
+    display: flex;
+    border: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
